@@ -1,7 +1,7 @@
 # Google Personal/Shared Drive Index
 
 * Supports Both My and Team/Shared Drives.
-* Code that should be deployed is [here](https://github.com/ParveenBhadooOfficial/Bhadoo-Drive-Index/tree/master/worker/dist/goindex.js)
+* Code that should be deployed is [here](https://github.com/SamirJanaOfficial/Shinobi-Drive-Index/blob/master/worker/dist/goindex.js)
 
 ## How to
 
