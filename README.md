@@ -25,9 +25,9 @@
 
 ## Design/UI Development (Based on Main Code)
 
-* [Worker JS](https://github.com/ParveenBhadooOfficial/Bhadoo-Drive-Index/blob/master/worker/dist/custom-worker.js)
-* [Custom MDUI css](https://github.com/ParveenBhadooOfficial/Bhadoo-Drive-Index/blob/master/worker/dist/custom.css) required for Model.
-* [Source of Design](https://github.com/ParveenBhadooOfficial/Bhadoo-Drive-Index/blob/master/worker/dist/custom-dev.js)
+* [Worker JS](https://github.com/SamirJanaOfficial/Shinobi-Drive-Index/blob/master/worker/dist/custom-worker.js)
+* [Custom MDUI css](https://github.com/SamirJanaOfficial/Shinobi-Drive-Index/blob/master/worker/dist/custom.css) required for Model.
+* [Source of Design](https://github.com/SamirJanaOfficial/Shinobi-Drive-Index/blob/master/worker/dist/custom-dev.js)
 * Fork and Test and make Pull Request.
 
 ## Credits
