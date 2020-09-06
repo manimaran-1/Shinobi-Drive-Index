@@ -6,7 +6,7 @@
 ## How to
 
 * Open h̶t̶t̶p̶s̶:̶/̶/̶c̶o̶d̶e̶d̶r̶i̶.̶v̶e̶.̶w̶o̶r̶k̶e̶r̶s̶.̶d̶e̶v̶ (Absolute)
-* Open https://gencode.ve.workers.dev Demo is at https://one.driveindex.ga
+* Open https://gencode.ve.workers.dev Demo is at https://td.shinobi.workers.dev/0:/
 * If you want to deploy main drive leave the option ROOT as it is.
 * If you want to deploy your Team Drive/Shared Drive/Folder then copy the ID and replace it with ROOT.
 * Eg. if you open [this shared drive](https://drive.google.com/drive/u/0/folders/0ACJgTKpEpTmHUk9PVA) 0ACJgTKpEpTmHUk9PVA is its ID.
