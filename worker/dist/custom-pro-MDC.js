@@ -14,7 +14,7 @@ function init() {
 <div id="content">
 </div>
 <br>
-<footer class="text-muted"> <div class="container"> <p class="float-right"> <a href="#">Back to top</a> </p> <p>Redesigned with <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-heart-fill" fill="red" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314z" /> </svg> by <a href="https://t.telegram.ind.in/SpecTacL3">😜tђe 😦𝕾𝖕𝖊𝖈𝖙𝖆𝖈𝖑͢͢͢𝖊</a>, based on Open Source Softwares.</p> <p>&copy; 2020 - <a href="https://github.com/SamirJanaOfficial">Noob Hacker</a> and <a href="https://t.telegram.ind.in/shinobicloud">Shinobi Cloud Cyber Systems</a></p> </div> </footer>
+<footer class="text-muted"> <div class="container"> <p class="float-right"> <a href="#">Back to top</a> </p> <p>Redesigned with <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-heart-fill" fill="red" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314z" /> </svg> by <a href="https://t.telegram.ind.in/SpecTacL3">😜tђe 😦𝕾𝖕𝖊𝖈𝖙𝖆𝖈𝖑͢͢͢𝖊</a>, based on Open Source Softwares.</p> <p>&copy; 2020 - <a href="https://github.com/SamirJanaOfficial">Noob Hacker</a> and <a href="https://t.telegram.ind.in/ci5er">Ci5er</a></p> </div> </footer>
   `;
     $('body').html(html);
 }
