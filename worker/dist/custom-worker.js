@@ -1,8 +1,8 @@
 const authConfig = {
-  "siteName": "Shinobi Cloud", // Website name
+  "siteName": "Samir's Cloud", // Website name
   "client_id": "58094879805-4654k2k5nqdid5bavft7fvea5u9po0t1.apps.googleusercontent.com",
   "client_secret": "ZNPZ-vS6N9Zjsyb_sNMZmXHL",
-  "refresh_token": "", // Authorize token
+  "refresh_token": "1//0gLraI0aOgKFjCgYIARAAGBASNwF-L9Ir-q-lsbGxDSkEtozDfQgLxkLYwkl5j6Wlzt__pgkbPPpOSVaWOHMq_CUaN1iDuW9BWQk", // Authorize token
   /**
    * Set up multiple Drives to display; add multiples by format
    * [id]: It can be the team disk id, subfolder id, or "root" (representing the root directory of personal disk);
@@ -18,7 +18,7 @@ const authConfig = {
    */
   "roots": [
     {
-      id: "relace-with-current-id",
+      id: "0ACJgTKpEpTmHUk9PVA",
       name: "One"
     }/**,
         {
@@ -113,10 +113,10 @@ function html(current_drive_order = 0, model = {}) {
     window.current_drive_order = ${current_drive_order};
     window.UI = JSON.parse('${JSON.stringify(uiConfig)}');
   </script>
-  <link rel="stylesheet" href="https://raw.githubusercontent.com/SamirJanaOfficial/Shinobi-Drive-Index/master/worker/dist/custom.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/SamirJanaOfficial/Shinobi-Drive-Index@master/worker/dist/custom.min.css">
   <script src="https://cdn.jsdelivr.net/combine/gh/jquery/jquery@3.2/dist/jquery.min.js"></script>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-  <script src="https://raw.githubusercontent.com/SamirJanaOfficial/Shinobi-Drive-Index/master/worker/dist/custom-pro-0001.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/SamirJanaOfficial/Shinobi-Drive-Index@master/worker/dist/custom-pro-0001.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mdui/0.4.3/js/mdui.min.js"></script>
 </head>
 <body>
