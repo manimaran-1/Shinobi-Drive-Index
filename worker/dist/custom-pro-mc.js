@@ -134,7 +134,7 @@ function nav(path) {
     }
 
     html += `</div></li><li class="nav-item">
-    <a class="nav-link" href="//www.facebook.com/imsjana/">Know More About Me</a>
+    <a class="nav-link" href="//www.facebook.com/imsjana/">Give Me a Hi-Fi</a>
   </li>`;
 
     var search_text = model.is_search_page ? (model.q || '') : '';
