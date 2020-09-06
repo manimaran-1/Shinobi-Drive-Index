@@ -2,7 +2,7 @@ const authConfig = {
   "siteName": "Samir's Cloud", // Website name
   "client_id": "58094879805-4654k2k5nqdid5bavft7fvea5u9po0t1.apps.googleusercontent.com",
   "client_secret": "ZNPZ-vS6N9Zjsyb_sNMZmXHL",
-  "refresh_token": "1//0gLraI0aOgKFjCgYIARAAGBASNwF-L9Ir-q-lsbGxDSkEtozDfQgLxkLYwkl5j6Wlzt__pgkbPPpOSVaWOHMq_CUaN1iDuW9BWQk", // Authorize token
+  "refresh_token": "", // Authorize token
   /**
    * Set up multiple Drives to display; add multiples by format
    * [id]: It can be the team disk id, subfolder id, or "root" (representing the root directory of personal disk);
@@ -18,7 +18,7 @@ const authConfig = {
    */
   "roots": [
     {
-      id: "0ACJgTKpEpTmHUk9PVA",
+      id: "relace-with-current-id",
       name: "One"
     }/**,
         {
