@@ -88,7 +88,7 @@ function nav(path) {
     var html = "";
     var cur = window.current_drive_order || 0;
     html += `<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="/${cur}:/"><img border="0" alt="Shinobi Cloud" src="https://user-images.githubusercontent.com/64221555/92332342-ee306400-f09a-11ea-9e61-0c246c3e0bae.png" height="50px"></a>
+  <a class="navbar-brand" href="/${cur}:/"><img border="0" alt="Shinobi Cloud" src="https://user-images.githubusercontent.com/64221555/92332342-ee306400-f09a-11ea-9e61-0c246c3e0bae.png" height="100px"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
