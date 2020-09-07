@@ -121,7 +121,6 @@ function html(current_drive_order = 0, model = {}) {
 </head>
 <body>
 </body>
-<script src="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@master/ai.hashhackers.com/assets/dist/js/bootstrap.bundle.min.js"></script>
 </html>`;
 };
 
